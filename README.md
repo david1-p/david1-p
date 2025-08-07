@@ -1,16 +1,3 @@
-## 🌸 About Me 🌸
-
-🌷 Hi there! I'm learning backend development step by step.
-
-I enjoy turning small ideas into actual programs. 💖  
-Currently learning Java, Spring, and basic CS concepts. 📖  
-I'm also interested in creating fun, interactive UI/UX styles! 🎀
-
-🥐 I love baking and dream of running my own guesthouse cafe someday.  
-💫 I want to build things that make people smile!
-
----
-
 ## 🛠️ Tech Stack 🛠️
 
 ### 🍡 Languages & Tools  

@@ -15,7 +15,6 @@ I'm also interested in creating fun, interactive UI/UX styles! 🎀
 
 ### 🍡 Languages & Tools  
 ![Java](https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)

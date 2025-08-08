@@ -1,3 +1,7 @@
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdavid1-p&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
+![david1-p's GitHub stats](https://github-readme-stats.vercel.app/api?username=david1-p&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=david1p)](https://solved.ac/david1p/)
 ##  Tech Stack 
 
 ### Languages & Tools  
@@ -26,4 +30,4 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/david1p/)
+

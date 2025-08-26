@@ -1,5 +1,13 @@
-![david1-p's GitHub stats](https://github-readme-stats.vercel.app/api?username=david1-p&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=david1p)](https://solved.ac/david1p/)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=david1-p&show_icons=true&theme=radical" height="170px"/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <!-- 공백 6칸 -->
+  <a href="https://solved.ac/david1p">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=david1p" height="180px"/>
+  </a>
+
+</div>
+
 ##  Tech Stack 
 
 ### Languages & Tools  

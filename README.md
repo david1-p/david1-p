@@ -37,4 +37,4 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 
 ### 오픈소스 기여
-https://github.com/dev-five-git/braillify
+https://github.com/dev-five-git/braillify 실시간 한글 점역 라이브러리 테스트 코드 기여 (Case 49)

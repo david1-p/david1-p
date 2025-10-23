@@ -36,7 +36,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=david1-p)](https://solved.ac/david1-p/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=david1p)](https://solved.ac/david1p/)
 
 ### 오픈소스 기여
 https://github.com/dev-five-git/braillify 실시간 한글 점역 라이브러리 테스트 코드 기여 (Case 49)

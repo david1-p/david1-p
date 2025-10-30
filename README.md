@@ -1,4 +1,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=david1p)](https://solved.ac/david1p/)
+![david1-p's GitHub stats](https://github-readme-stats.vercel.app/api?username=david1-p&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david1-p&layout=compact)
+
 
 ## Tech Stack
 
@@ -24,7 +27,7 @@
 
 ### DevOps & Infra
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)x
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 
 ### Tools
 ![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)

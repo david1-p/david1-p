@@ -1,6 +1,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=david1p)](https://solved.ac/david1p/)
-![david1-p's GitHub stats](https://github-readme-stats.vercel.app/api?username=david1-p&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david1-p&layout=compact)
+![david1-p's GitHub stats](https://github-readme-stats.vercel.app/api?username=david1-p&count_private=true&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david1-p&layout=compact&theme=transparent)
 
 
 ## Tech Stack
